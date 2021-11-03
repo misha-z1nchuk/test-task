@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "web3": "^1.6.0"
+  },
+  "scripts": {
+
+  }
+}
